@@ -404,6 +404,12 @@ const BRIDGE_SERVERS = [
     description:
       "Rust implementation of Federated Lightning Address (based on original satdress)",
   },
+  {
+    urlLink: "https://github.com/pseudozach/sparklnaddress",
+    urlText: "Spark Lightning Address",
+    description:
+      "Bridge server using Spark public keys to enable Lightning Network payments for enhanced security and privacy.",
+  },
 ];
 
 const WALLETS = [
@@ -564,6 +570,16 @@ const WALLETS = [
       borderRadius: "5%",
     },
   },
+  {
+    name: "Spark Money Bot",
+    image: "/images/smbicon192.png",
+    downloadText: "Open Telegram",
+    url: "https://t.me/sparkmoneybot",
+    imageStyle: {
+      width: "115px",
+      borderRadius: "5%",
+    },
+  },
 ];
 
 export const Community = () => (
@@ -602,7 +618,7 @@ export const Community = () => (
         ))}
         <CTAWrapper>
           <CTASecondary
-            href="https://github.com/andrerfneves/lightning-address/blob/master/README.md#wallets-supported"
+            href="https://github.com/andrerfneves/lightning-address/blob/main/README.md#wallets-supported"
             target="_blank"
           >
             View list of supported Wallets
