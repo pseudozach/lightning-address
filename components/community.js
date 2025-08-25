@@ -572,7 +572,7 @@ const WALLETS = [
   },
   {
     name: "Spark Money Bot",
-    image: "/images/smbicon192.png",
+    image: "/images/smblogo.png",
     downloadText: "Open Telegram",
     url: "https://t.me/sparkmoneybot",
     imageStyle: {
