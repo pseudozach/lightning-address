@@ -69,6 +69,10 @@ const FOOTER = [
         title: "@LightningTipBot",
       },
       {
+        link: "https://t.me/sparkmoneybot",
+        title: "@sparkmoneybot",
+      },
+      {
         link: "https://getalby.com",
         title: "Alby",
       },
@@ -136,6 +140,10 @@ const FOOTER = [
       {
         link: "https://t.me/LightningTipBot",
         title: "@LightningTipBot",
+      },
+      {
+        link: "https://t.me/sparkmoneybot",
+        title: "@sparkmoneybot",
       },
       {
         link: "https://getalby.com",
