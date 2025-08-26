@@ -406,9 +406,9 @@ const BRIDGE_SERVERS = [
   },
   {
     urlLink: "https://github.com/pseudozach/sparklnaddress",
-    urlText: "Spark Lightning Address",
+    urlText: "spark-lnaddress",
     description:
-      "Bridge server using Spark public keys to enable Lightning Network payments for enhanced security and privacy.",
+      "Bridge server using Spark public keys for enhanced Lightning payments security.",
   },
 ];
 
